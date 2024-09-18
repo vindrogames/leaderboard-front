@@ -6,7 +6,7 @@ const Header = () => {
   return (
 
     <header>
-      <div id="navbar" class="top">
+      <div id="navbar" className="top">
         <div className="vindro-logo">
           <a href="https://www.vindrogames.com/"><img src="img/vindro_logo_1.png" alt="vindrogames independant gaming studio in Madrid"></img></a>
           <div className="vindro-logo-text">
